@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://data.whicdn.com/images/12075450/large.jpg);
+    font-family: "sans-serif";
+    background-color: black;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-emphasis-position: over;
+    font-size: 15px;
+    color: palegoldenrod;
+    text-align: left;
+    width: 500px;
+}
